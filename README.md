@@ -45,7 +45,7 @@ Size: 2 vCPUs, 8 GiB memory
 
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
-![image](https://github.com/user-attachments/assets/b048f5a7-52df-4d23-af27-575bb3880ea5)
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/be81a917-9704-4dd0-8261-36dfdb7b878b" />
 
 ![image](https://github.com/user-attachments/assets/2e7f942c-1169-48df-8e85-8b0f0f6609e9)
 
