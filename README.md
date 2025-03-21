@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -osTicket installation files
 -HeidiSQL
 
-Installation Steps
+<h2>INSTALLATION STEPS</h2>
 
 1.) CREATE A VIRTUAL MACHINE
 
